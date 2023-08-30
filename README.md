@@ -1,5 +1,7 @@
 # Comandos Git e Github
 
+![gif do ghostface soltando fumaça](https://github.com/arthurlunkes/Git_Github/blob/arthurlunkes/img/d941974c8c98dcae41a1980bc7295ad7.gif)
+
 ## Git 
 
 > Git é um sistema de controle de versão distribuído. Ele permite que os desenvolvedores rastreiem e gerenciem mudanças em arquivos – geralmente, mas não exclusivamente, código-fonte de programas. Aqui estão algumas características e conceitos centrais do Git:
